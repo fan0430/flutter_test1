@@ -1,0 +1,32 @@
+# Flutter build artifacts
+build/
+release/
+*.aab
+*.apk
+*.ipa
+*.xcframework/
+*.framework/
+
+# iOS
+ios/Flutter/
+ios/Pods/
+ios/DerivedData/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# Dart / Flutter cache
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
